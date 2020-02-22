@@ -1,1 +1,1 @@
-Creating a new branch is rapid and easy.
+Creating a new branch is rapid and easy and testing.
