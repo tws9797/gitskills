@@ -7,6 +7,7 @@ func main() {
 	fmt.Println("Second line")
 	fmt.Println("Third line")
 	fmt.Println("test")
+	doSomething()
 }
 
 func doSomething() {
